@@ -4,13 +4,13 @@
 
 本插件主要用于快捷调用==mac==版本 Goldendict，点击之后即可立即翻译
 
-<img src="assets/image-20221007102608552.png" alt="image-20221007102608552" style="zoom:50%;" />
+![example_1](assets/example_1.png)
 
-![image-20221007102656102](assets/image-20221007102656102.png)
+![example_2](assets/example_2.png)
 
 ## 网页链接
 
-* mac版本 Goldendict 下载地址 [GoldenDict - Browse /early access builds at SourceForge.net](https://sourceforge.net/projects/goldendict/files/early access builds/)
+* mac版本 Goldendict 下载地址 [GoldenDict - Browse /early access builds at SourceForge.net](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/)
 * PopClip 下载地址[PopClip for Mac (pilotmoon.com)](https://pilotmoon.com/popclip/)
 
 ## 特别鸣谢
