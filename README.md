@@ -2,7 +2,7 @@
 
 ## 功能
 
-本插件主要用于快捷调用==mac==版本 Goldendict，点击之后即可立即翻译
+本插件主要用于快捷调用mac版本 Goldendict，点击之后即可立即翻译
 
 ![example_1](assets/example_1.png)
 
