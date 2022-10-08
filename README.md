@@ -8,7 +8,8 @@
 
 ![example_2](assets/example_2.png)
 
-本插件需要将快捷键改成commond+O
+### 本插件需要将快捷键改成commond+O
+![example_2](assets/example_3.png)
 
 ## 网页链接
 
